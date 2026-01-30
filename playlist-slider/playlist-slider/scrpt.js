@@ -1,22 +1,22 @@
 // Playlist structure — update name, artist, src (audio URL), img (optional cover)
 const songs = [
   {
-    name: "Song Title 1",
-    artist: "Artist 1",
-    src: "https://example.com/audio/song1.mp3",
-    img: "https://example.com/images/cover1.jpg"
+    name: "I know you",
+    artist: "Faye Webster",
+    src: "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o?si=db286cf6a35f4fc0",
+    img: "https://i.pinimg.com/736x/7e/52/26/7e5226222b95626d23fd1a2c630ad52b.jpg"
   },
   {
-    name: "Song Title 2",
-    artist: "Artist 2",
-    src: "https://example.com/audio/song2.mp3",
-    img: "https://example.com/images/cover2.jpg"
+    name: "Always",
+    artist: "Daniel Ceasar",
+    src: "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus?si=cbd1123ff7824e5e",
+    img: "https://cdn-images.dzcdn.net/images/cover/0d571082af7c78114321031d7f84d331/1900x1900-000000-80-0-0.jpg"
   },
   {
-    name: "Song Title 3",
-    artist: "Artist 3",
-    src: "https://example.com/audio/song3.mp3",
-    img: "https://example.com/images/cover3.jpg"
+    name: "Pretty boy",
+    artist: "The Neighbourhood",
+    src: "https://open.spotify.com/track/7IL8PSVwLOJxqYne6azxQv?si=b0aaeaa63e344194",
+    img: "https://i.scdn.co/image/ab67616d0000b27354fa8ed109151d0443dc8246"
   }
 ];
 
